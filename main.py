@@ -1,4 +1,5 @@
 def isItPassword(word):
+    #NEW EDIT
     char = 0
     symbol = 0
     digi = 0
